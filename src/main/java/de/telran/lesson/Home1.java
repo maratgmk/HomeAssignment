@@ -26,7 +26,7 @@ public class Home1 {
         System.out.println(s);
         int p = k/10/10%10;
         System.out.println(p);
-        System.out.println("345 ->"  + n);
+        System.out.println("345 ->"  + n + "," + s + "," + p);
 
 
 
