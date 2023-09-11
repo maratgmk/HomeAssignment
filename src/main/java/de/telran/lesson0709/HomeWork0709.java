@@ -8,6 +8,7 @@ public class HomeWork0709 {
         boolean isRain = false;
         boolean isWalk = !isRain && isWeekend;
         System.out.println(isWalk);
+
         //=============================================
 
         boolean isEdekaOpen = true;
