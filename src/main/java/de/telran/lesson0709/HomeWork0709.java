@@ -55,7 +55,6 @@ public class HomeWork0709 {
 
         double s = t*(28800 +1);
         int S = (int)s;
-
         System.out.println(S);
         int h = S / 3600;
 
