@@ -1,6 +1,5 @@
 package de.telran.homework19_09;
 
-
 import java.util.Random;
 
 public class Array1 {
